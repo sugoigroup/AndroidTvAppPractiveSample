@@ -1,4 +1,5 @@
 <resources>
 
   <style name="Theme.MyApplicationtv5" parent="@style/Theme.Leanback" />
+
 </resources>
